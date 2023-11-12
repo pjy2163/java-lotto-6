@@ -8,11 +8,11 @@ import lotto.view.OutputView;
 
 import java.util.List;
 
-public class LottoMainController {
+public class LottoController {
 
     private final LottoManager lottoManager;
 
-    public LottoMainController(LottoManager lottoManager) {
+    public LottoController(LottoManager lottoManager) {
         this.lottoManager = lottoManager;
     }
 
